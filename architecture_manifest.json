@@ -1,0 +1,21 @@
+{
+  "name": "hermes-jobseeker-bot",
+  "version": "2.5.0",
+  "edition": "Commercial Managed Service Showcase",
+  "author": "Ahmad Dafa Salam (DapppMC)",
+  "portfolio": "https://dafa-os.vercel.app/",
+  "verified_metrics": {
+    "active_verified_listings": 315,
+    "high_match_listings_ge_85": 219,
+    "automated_test_suite": "81/81 PASS",
+    "supported_portals": [
+      "careers.its.ac.id",
+      "linkedin.com",
+      "dealls.com",
+      "kalibrr.com",
+      "glints.com",
+      "id.jobstreet.com",
+      "prosple.com"
+    ]
+  }
+}
